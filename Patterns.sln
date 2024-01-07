@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{AF7033BA-4CFE-4FE6-90A7-13DC6F73EA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{3E78DCDA-45C7-4580-9247-A96B98022DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{2D2BD799-F4D2-428C-99D1-A0DD8640B202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF7033BA-4CFE-4FE6-90A7-13DC6F73EA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7033BA-4CFE-4FE6-90A7-13DC6F73EA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7033BA-4CFE-4FE6-90A7-13DC6F73EA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7033BA-4CFE-4FE6-90A7-13DC6F73EA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E78DCDA-45C7-4580-9247-A96B98022DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E78DCDA-45C7-4580-9247-A96B98022DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E78DCDA-45C7-4580-9247-A96B98022DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E78DCDA-45C7-4580-9247-A96B98022DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2BD799-F4D2-428C-99D1-A0DD8640B202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2BD799-F4D2-428C-99D1-A0DD8640B202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2BD799-F4D2-428C-99D1-A0DD8640B202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2BD799-F4D2-428C-99D1-A0DD8640B202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
