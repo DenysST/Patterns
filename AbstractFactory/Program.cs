@@ -1,5 +1,4 @@
-﻿
-using AbstractFactory.Factories;
+﻿using AbstractFactory.Factories;
 using AbstractFactory.Factories.Animals;
 using AbstractFactory.Factories.Vehicles;
 

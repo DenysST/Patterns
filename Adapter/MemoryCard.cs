@@ -1,7 +1,3 @@
-#region Header
-// Copyright Koninklijke Philips N.V. 2023
-#endregion
-
 namespace Adapter;
 
 public class MemoryCard {
