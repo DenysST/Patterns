@@ -3,7 +3,7 @@ using AbstractFactory.Factories.Vehicles;
 
 namespace AbstractFactory.Factories;
 
-public class FactoryProvider
+public static class FactoryProvider
 {
     public static IAbstractFactory<object> GetFactory(FactoryType type)
     {

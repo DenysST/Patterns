@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{310ACDC0-D15E-46BF-9DE1-C5E8F80B7C93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{9FEABD2D-BD76-4AEA-886E-4F9BB1E912A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{6A3457B8-898A-4A6D-B290-393810AA9E9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{310ACDC0-D15E-46BF-9DE1-C5E8F80B7C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{310ACDC0-D15E-46BF-9DE1-C5E8F80B7C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{310ACDC0-D15E-46BF-9DE1-C5E8F80B7C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEABD2D-BD76-4AEA-886E-4F9BB1E912A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEABD2D-BD76-4AEA-886E-4F9BB1E912A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEABD2D-BD76-4AEA-886E-4F9BB1E912A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEABD2D-BD76-4AEA-886E-4F9BB1E912A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3457B8-898A-4A6D-B290-393810AA9E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3457B8-898A-4A6D-B290-393810AA9E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3457B8-898A-4A6D-B290-393810AA9E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3457B8-898A-4A6D-B290-393810AA9E9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
